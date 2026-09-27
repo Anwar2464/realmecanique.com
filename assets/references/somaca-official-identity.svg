@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-labelledby="t d">
+ <title id="t">SOMACA</title><desc id="d">SOMACA wordmark with Arabic name and blue swoosh, matching the identity visible on the Renault Group Casablanca plant signage.</desc>
+ <rect width="900" height="220" fill="#fff"/>
+ <text x="55" y="112" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="700" fill="#173B78" letter-spacing="-3">somaca</text>
+ <path d="M400 132 C470 45 545 38 624 90 C565 73 517 88 474 139 C450 166 423 171 395 157 C407 151 415 142 400 132Z" fill="#2E67A8"/>
+ <path d="M430 147 C492 93 554 88 616 113 C560 107 518 122 478 158 C459 175 440 176 421 166 C428 160 433 154 430 147Z" fill="#78A9D5"/>
+ <text x="654" y="111" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" fill="#182A45" direction="rtl">صوماكا</text>
+ <text x="58" y="174" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#64748B" letter-spacing="3">SOCIÉTÉ MAROCAINE DE CONSTRUCTION AUTOMOBILE</text>
+</svg>
